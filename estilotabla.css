@@ -1,0 +1,11 @@
+table{background-color: cadetgreen;
+    color:black;
+text-align: center;
+}
+td{
+      border-radius: 3px;
+       border-color: blue; 
+       font-size: 12px; 
+        font-family:'Times New Roman', Times, serif;
+       text-align: center; 
+}
